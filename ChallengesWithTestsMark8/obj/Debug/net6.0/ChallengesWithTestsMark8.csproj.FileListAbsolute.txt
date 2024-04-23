@@ -1,0 +1,15 @@
+/Users/fikrabebe/Desktop/TCRepos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8
+/Users/fikrabebe/Desktop/TCRepos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.deps.json
+/Users/fikrabebe/Desktop/TCRepos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.runtimeconfig.json
+/Users/fikrabebe/Desktop/TCRepos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.dll
+/Users/fikrabebe/Desktop/TCRepos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.pdb
+/Users/fikrabebe/Desktop/TCRepos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.csproj.AssemblyReference.cache
+/Users/fikrabebe/Desktop/TCRepos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fikrabebe/Desktop/TCRepos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+/Users/fikrabebe/Desktop/TCRepos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfo.cs
+/Users/fikrabebe/Desktop/TCRepos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+/Users/fikrabebe/Desktop/TCRepos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.dll
+/Users/fikrabebe/Desktop/TCRepos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/refint/ChallengesWithTestsMark8.dll
+/Users/fikrabebe/Desktop/TCRepos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.pdb
+/Users/fikrabebe/Desktop/TCRepos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.genruntimeconfig.cache
+/Users/fikrabebe/Desktop/TCRepos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ref/ChallengesWithTestsMark8.dll

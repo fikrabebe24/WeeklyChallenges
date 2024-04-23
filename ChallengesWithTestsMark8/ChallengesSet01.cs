@@ -23,7 +23,7 @@ namespace ChallengesWithTestsMark8
 
         public int Add(int number1, int number2)
         {
-            return number1 - number2;
+            return number1 + number2;
         }
 
         public int GetSmallestNumber(int number1, int number2)
@@ -45,9 +45,18 @@ namespace ChallengesWithTestsMark8
 
         public string GetGreeting(string nameOfPerson)
         {
-            nameOfPerson = Console.ReadLine();
+            if(nameOfPerson != "")
+            {
+                return $"Hello {nameOfPerson} ";
+            }
+            else
+            {
+                return "Hello";
+            }
 
-            return $"Hey, {nameOfPerson}, happy day!";
+            //nameOfPerson = Console.ReadLine();
+
+            //return $"Hey, {nameOfPerson}, happy day!";
             
         }
 
